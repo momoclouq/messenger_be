@@ -11,9 +11,9 @@ Not available
 Not available
 
 
-## How to run the project locally
+## Installation
 
-?
+Install via pip: `pip install -Ur requirements.txt`
 
 ## How to contribute as a team member
 

@@ -1,0 +1,5 @@
+# Optimized from Py
+__pycache__/
+
+# Venv
+messenger-env/
